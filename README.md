@@ -9,4 +9,4 @@ olyzhuk/olyzhuk is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Image alt](https://github.com/olyzhuk/olyzhuk/blob/main/lotos%20doggie.jpg)
