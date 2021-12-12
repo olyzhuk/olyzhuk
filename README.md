@@ -8,3 +8,5 @@
 olyzhuk/olyzhuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
