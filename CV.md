@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 
 ![Image alt](https://github.com/olyzhuk/olyzhuk/blob/main/lotos%20doggie.jpg)
 
-![Image alt](https://github.com/Viki2022/barnacle/blob/main/assets/img/photo_2021-12-12_12-40-20.jpg)
+
